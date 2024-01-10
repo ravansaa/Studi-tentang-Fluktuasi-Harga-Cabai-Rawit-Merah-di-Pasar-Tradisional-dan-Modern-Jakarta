@@ -101,7 +101,7 @@ ke tahun.
 <br/>
 
 ## Splitting Data
- ![image](https://github.com/ravansaa/Studi-tentang-Fluktuasi-Harga-Cabai-Rawit-Merah-di-Pasar-Tradisional-dan-Modern-Jakarta/assets/92682154/6c19716a-c532-48ca-b8de-ee222bee944a)
+ ![image](https://github.com/ravansaa/Studi-tentang-Fluktuasi-Harga-Cabai-Rawit-Merah-di-Pasar-Tradisional-dan-Modern-Jakarta/assets/92682154/6c19716a-c532-48ca-b8de-ee222bee944a) <br/>
 Dari hasil splitting data, kita mendapatkan 896 data untuk train data, dan 257 untuk test 
 data 
 
@@ -129,7 +129,7 @@ predictions.select('Tanggal', 'Pasar Minggu', 'prediction').show(5)
 <br/>
 
 ## Evaluasi
-![image](https://github.com/ravansaa/Studi-tentang-Fluktuasi-Harga-Cabai-Rawit-Merah-di-Pasar-Tradisional-dan-Modern-Jakarta/assets/92682154/887b2552-9e44-40c3-b7f1-d730cfebc095)
+![image](https://github.com/ravansaa/Studi-tentang-Fluktuasi-Harga-Cabai-Rawit-Merah-di-Pasar-Tradisional-dan-Modern-Jakarta/assets/92682154/887b2552-9e44-40c3-b7f1-d730cfebc095) <br/>
 Dari gambar diatas dapat dilihat bahwa kinerja/skor dari model yang kita buat adalah: 
 R2: 95% 
 MSE: 25372428.2726828837 
