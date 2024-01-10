@@ -76,7 +76,7 @@ Berikut adalah hasil dari analisis deskriptifnya:
 ## Visualisasi
 
 Berikut adalah visualisasi time series harga cabai dari 4 pasar : 
-![image](https://github.com/ravansaa/Studi-tentang-Fluktuasi-Harga-Cabai-Rawit-Merah-di-Pasar-Tradisional-dan-Modern-Jakarta/assets/92682154/4009327d-eb7b-4ca8-82ca-1c92672ba019)
+![image](https://github.com/ravansaa/Studi-tentang-Fluktuasi-Harga-Cabai-Rawit-Merah-di-Pasar-Tradisional-dan-Modern-Jakarta/assets/92682154/4009327d-eb7b-4ca8-82ca-1c92672ba019)<br/>
 Berdasarkan visualisasi tersebut, dapat disimpulkan bahwa rata-rata nilai transaksi 
 pasar di Jakarta mengalami peningkatan dalam kurun waktu 3 tahun terakhir, yaitu dari 
 tahun 2020 hingga 2023. Peningkatan ini terlihat dari grafik yang terus naik dari tahun ke 
